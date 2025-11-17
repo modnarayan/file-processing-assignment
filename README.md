@@ -1,9 +1,9 @@
 # S3 → MongoDB Processing System (Assignment Solution)
 
-Live endpoints (deployed on EC2 - t3.medium):
+Live endpoints (deployed on EC2 - t2.micro):
 
-- Upload: http://ec2-54-89-123-45.compute-1.amazonaws.com:3000/upload
-- Process: http://ec2-54-89-123-45.compute-1.amazonaws.com:3000/process/:fileKey
+- Upload: http://ec2-13-201-99-231.ap-south-1.compute.amazonaws.com/upload
+- Process: http://ec2-13-201-99-231.ap-south-1.compute.amazonaws.com/process/:fileKey
 
 ## Features Implemented
 
