@@ -23,8 +23,7 @@ Live endpoints (deployed on EC2 - t3.medium):
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo bash -
 sudo apt-get install -y nodejs git
 
-git clone https://github.com/s3-mongo-processing-assignment/solution.git
-cd solution
+git clone git remote add origin https://github.com/modnarayan/file-processing-assignment.git
 npm install
 
 cp .env.example .env
